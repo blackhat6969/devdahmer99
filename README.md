@@ -34,11 +34,11 @@ const frameworks = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/devdahmer99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/devdahmer99">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Eduardo Dahmer** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=dracula&line_height=27" alt="**Eduardo Dahmer** github stats"/>
 </a>
 
 
