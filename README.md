@@ -49,9 +49,8 @@ const frameworks = {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+
+📺 [youtube][https://www.youtube.com/user/Dev_Hacking/] **|** 
+📷 [instagram][https://www.instagram.com/dahmer.ts/] **|** 
+👔 [linkedin][https://www.linkedin.com/in/Eduardo.correa/]
 
